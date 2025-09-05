@@ -1,2 +1,2 @@
 # TokoMinuman
-test
+test coding tugas Java1
